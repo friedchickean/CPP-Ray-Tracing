@@ -11,6 +11,6 @@ A full path ray-tracing written in C++. This program uses GPU shaders to process
 - Key Q to quit the program
 
 ----
-OS: Windows 10
-IDE: Microsoft Visual Studio Code 2022
-Kean Arguelles UCID(30063655)
+- OS: Windows 10
+- IDE: Microsoft Visual Studio Code 2022
+- Kean Arguelles | Created in CPSC-453 Computer Graphics
